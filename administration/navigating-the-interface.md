@@ -9,7 +9,7 @@ parent: Administration
 
 ## Main Menu
 
-![main-veiw](https://github.com/egoranuchin/merk.team-test/blob/07398b5634643ac6dc593c88da20b73baad407eb/assets/images/main-view.png?raw=true)
+![main-veiw](https://github.com/egoranuchin/event.team-test/blob/07398b5634643ac6dc593c88da20b73baad407eb/assets/images/main-view.png?raw=true)
 
 The administrative interface you're viewing is the central hub for managing the schedule of your event. It is designed to give you a clear and organized view of all event-related activities, allowing for efficient and intuitive event planning.
 
@@ -23,7 +23,7 @@ On the Left Sidebar you can see the Navigation Menu:
 
 The central area of the interface represents the timeline view of sessions in the selected venue.It contains the following features:
 
-- **Add Event** Button: Located at the top left, this button allows you to add new events or sessions to your schedule. For more information on how to create various types of sessions, see the [Managing sessions](https://egoranuchin.github.io/merk.team-test/administration/managing-sessions/managing-sessions.html) article.
+- **Add Event** Button: Located at the top left, this button allows you to add new events or sessions to your schedule. For more information on how to create various types of sessions, see the [Managing sessions](https://egoranuchin.github.io/event.team-test/administration/managing-sessions/managing-sessions.html) article.
 - **List/Calendar Tabs**: These tabs let you switch between a list view and a calendar view of your event schedule.
 - **Days**: This section lists the days of your event, which can be expanded to view the specific events scheduled for each day.
 - **Topics**: Here you can manage the various topics that your event will cover.
@@ -31,7 +31,7 @@ The central area of the interface represents the timeline view of sessions in th
 
 ### Managing Locations
 
-![new-location](https://github.com/egoranuchin/merk.team-test/blob/07398b5634643ac6dc593c88da20b73baad407eb/assets/images/new-venue.png?raw=true)
+![new-location](https://github.com/egoranuchin/event.team-test/blob/07398b5634643ac6dc593c88da20b73baad407eb/assets/images/new-venue.png?raw=true)
 
 To create a new Location:
 
@@ -41,7 +41,7 @@ To create a new Location:
 
 ### Managing Topics
 
-![new-topic](https://github.com/egoranuchin/merk.team-test/blob/07398b5634643ac6dc593c88da20b73baad407eb/assets/images/new-topic.png?raw=true)
+![new-topic](https://github.com/egoranuchin/event.team-test/blob/07398b5634643ac6dc593c88da20b73baad407eb/assets/images/new-topic.png?raw=true)
 
 To create a new Topic:
 

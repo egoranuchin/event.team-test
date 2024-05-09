@@ -14,9 +14,9 @@ The Event.Rocks Sessions Module is a tool tailored for event management. It stre
 
 ### Administrator Interface
 
-- [**Navigating the interface:**](https://egoranuchin.github.io/merk.team-test/administration/navigating-the-interface.html) A guide on how to efficiently use the administrator dashboard. Overview of the main menu and its functionalities.
-- [**Managing Sessions:**](https://egoranuchin.github.io/merk.team-test/administration/managing-sessions/managing-sessions.html) Step-by-step instructions for setting up various types of events, including presentations, coffee breaks, opening ceremonies, filler announcements, and promotional blocks.
-- [**User Management:**](https://egoranuchin.github.io/merk.team-test/administration/user-management/user-management.html) Handling different user roles like Administrators and Participants.
+- [**Navigating the interface:**](https://egoranuchin.github.io/event.team-test/administration/navigating-the-interface.html) A guide on how to efficiently use the administrator dashboard. Overview of the main menu and its functionalities.
+- [**Managing Sessions:**](https://egoranuchin.github.io/event.team-test/administration/managing-sessions/managing-sessions.html) Step-by-step instructions for setting up various types of events, including presentations, coffee breaks, opening ceremonies, filler announcements, and promotional blocks.
+- [**User Management:**](https://egoranuchin.github.io/event.team-test/administration/user-management/user-management.html) Handling different user roles like Administrators and Participants.
 
 ### Participant Interface
 

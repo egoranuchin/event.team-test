@@ -25,7 +25,7 @@ callouts:
     color: red
 
 aux_links:
-  Documentation Repository: https://github.com/egoranuchin/merk.team-test
+  Documentation Repository: https://github.com/egoranuchin/event.team-test
 
 back_to_top: true
 back_to_top_text: "Back to top"
@@ -38,7 +38,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p"
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/egoranuchin/merk.team-test" # the github URL for your repo
+gh_edit_repository: "https://github.com/egoranuchin/event.team-test" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
